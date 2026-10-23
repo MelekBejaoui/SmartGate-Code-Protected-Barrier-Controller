@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"name": "PlatformIO",
+			"path": "../.."
+		},
+		{
+			"name": "my first prject",
+			"path": "../../../../../Documents/my first prject"
+		},
+		{
+			"name": "servo",
+			"path": "../../../../../Documents/servo"
+		},
+		{
+			"name": "esp32-wifi",
+			"path": "../esp32-wifi"
+		},
+		{
+			"name": "firebase test",
+			"path": "../firebase test"
+		},
+		{
+			"name": "new",
+			"path": "../new"
+		},
+		{
+			"name": "TempHumid-RealProject",
+			"path": "../TempHumid-RealProject"
+		},
+		{
+			"name": "RFID with node red",
+			"path": "../RFID with node red"
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		},
+		{
+			"name": "Mini Weather station",
+			"path": "../Mini Weather station"
+		},
+		{
+			"name": "Barriere codee",
+			"path": "."
+		},
+		{
+			"name": "tests",
+			"path": "../tests"
+		}
+	],
+	"settings": {}
+}
